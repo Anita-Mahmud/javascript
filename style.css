@@ -1,0 +1,194 @@
+.colorButtons
+{
+    padding-top: 10px;
+     margin-left: 20%;
+   padding-left: 25%;
+ 
+  
+    
+}
+.colorButtons button
+{
+    height: 30px;
+    width: 30px;
+    
+    
+   
+   
+  
+}
+
+.section1 TEXTAREA
+{
+    width: 60%;
+    height: 50%;
+    text-align: center;
+    display: block;
+    border: 10px;
+    text-align: center;
+    padding-top: 2%;
+    font-size: 25px;
+    
+    padding-bottom: 2%;
+    padding-left: 10%;
+    padding-right: 20%;
+    padding-inline-start: 20%;
+    background-color: transparent;
+    
+    
+   
+    border:grey;
+    border-style: solid;
+    color: white;
+    
+         
+}
+
+body
+{
+    background-color: transparent;
+    
+    
+}
+
+.Container
+{
+   
+    margin: 0%;
+    width: 60%;
+
+    border: tomato;
+    justify-content: center;
+    display: inline-block;
+    background-color:transparent;
+    padding-left: 20%;
+    padding-right: 20%;
+    
+    
+}
+
+.Container2
+{
+   
+    margin: 0%;
+    width: 60%;
+    height:auto;
+    border: tomato;
+    justify-content: center;
+    display: inline-block;
+    background-color: transparent;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 5%;
+    font-weight: bold;
+    font-size: 110%;
+    color: white;
+}
+
+.Container3
+{
+   
+    margin: 0%;
+    width: 60%;
+    height:10%;
+    border: tomato;
+    justify-content: center;
+    display: inline-block;
+    background-color: transparent;
+    padding-left: 20%;
+    padding-right: 20%;
+    color:white;
+   
+    
+}
+
+.Container4
+{
+   
+    margin: 0%;
+    width: 60%;
+    border: tomato;
+    justify-content: center;
+    display: inline-block;
+    background-color: transparent;
+    padding-left: 20%;
+    padding-right: 20%;
+ 
+    
+}
+
+
+#red {
+    background-color: #b23f15;
+}
+
+#blue {
+    background-color: #1470b2;
+}
+
+#yellow {
+    background-color: #d6d324;
+}
+
+#green {
+    background-color: #10b731;
+}
+#hero{
+    justify-content: center;
+    
+    
+    
+}
+.section3{
+   padding-left: 30%;
+}
+
+.section4{
+    padding-left: 35%;
+}
+.section4 textarea
+{
+    width: 90%;
+    height: 200px;   
+    padding-left: 10px;
+    text-justify: none;
+    text-align: left;
+    
+   
+}
+
+
+
+
+.section4 button
+{
+    width: auto;
+    height: 20px;
+    
+   
+}
+.header{
+    text-align: justify;
+  color:white;
+ background-color: transparent;
+  font-family: 'Calibri', cursive;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  font-style: italic;
+  width: 100%;
+  background-image: url("bg1.jpg");
+
+}
+#qb,#hb,#cal,#mag{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    }
+    #a{
+        height: auto;
+        width: 100%;
+    }
+    #ans{
+        font-size: x-large;
+        font-weight: bold;
+        color: darkseagreen;
+    }
